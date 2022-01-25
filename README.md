@@ -1,6 +1,8 @@
+![I am a computer science engineer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/271611695_293664746137731_2830335918430410031_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=hrbEMPK0AgsAX_WFbcD&tn=ZBwTA9Mdx-vsC11R&_nc_ht=scontent.fdac99-1.fna&oh=00_AT8MmCOwBSUbYvn93hw6e8Q_vsopj2xjVV85R0upgxxOew&oe=61F4AD0F)
+
 ### Hi there 👋, my name is AF Rafi
 #### I am a computer science engineer
-![I am a computer science engineer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/271611695_293664746137731_2830335918430410031_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=hrbEMPK0AgsAX_WFbcD&tn=ZBwTA9Mdx-vsC11R&_nc_ht=scontent.fdac99-1.fna&oh=00_AT8MmCOwBSUbYvn93hw6e8Q_vsopj2xjVV85R0upgxxOew&oe=61F4AD0F)
+
 
 Coding is my passion. Since my childhood I always wanted to become an computer Engineer. After passing my HSC exam I join AIUB in UG program. Pray for me.
 
